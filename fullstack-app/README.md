@@ -1,0 +1,1 @@
+TexLab Academy fullstack app lives in this folder.
